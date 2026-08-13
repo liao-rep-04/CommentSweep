@@ -4,6 +4,6 @@
     "pr": ""
   },
   "permissions": {
-    "defaultMode": "acceptEdits"
+    "defaultMode": "bypassPermissions"
   }
 }
