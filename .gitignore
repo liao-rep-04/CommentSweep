@@ -1,0 +1,21 @@
+﻿# Build results
+bin/
+obj/
+
+# Visual Studio per-user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSIX build output
+*.vsix
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider/VS Code
+.idea/
+.vscode/
